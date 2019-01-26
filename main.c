@@ -51,8 +51,7 @@ printf("\n###############################  END  ################################
 */
 /*
     printf("\n#####################  Question3_2015a_83(); - Question2_part2 #########################\n\n");
-    int a=3
-        ,b=2;
+    int a=3, b=2;
 
     Question2_2015a_83_part2(a,b);
 
@@ -61,16 +60,6 @@ printf("\n###############################  END  ################################
     return 0;
 */
 
-/*
-Write macro function that:
-1. Receives 2 values in variables.
-2. Searches how much `0` bits
-3. Executes result with printing of which is have more `0`
-
-If:
-1. Theres same number of `0`, it chooses the first and output amount of `0`.
-
-*/
 
     /* Exam year:      2010b
     * Exam moed:       87
@@ -78,11 +67,9 @@ If:
     * Question part:   1
     */
 
-    printf("\n#####################  Question3_2015a_87(); - Question3_part3 #########################\n\n");
+    printf("\n#####################  Question2_2010b_87_part1; - Question2_part1 #########################\n\n");
     Question2_2010b_87_part1();
     printf("\n###############################  END  #################################\n");
-
-
 
     return 0;
 }

@@ -15,4 +15,5 @@
 * [Markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * [Markdown guide(Bitbucket)](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 * [GITLENS Settings](https://github.com/eamodio/vscode-gitlens#gitlens-settings)
+* [Code::blocks download](http://www.codeblocks.org/downloads)
 # More information can be found at repos wiki.

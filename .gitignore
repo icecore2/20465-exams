@@ -6,6 +6,8 @@
 /exams/.idea/
 /exams/cmake*
 /.idea
+/.vs
 *.code-workspace
 *.cbp
 *.txt
+*.exe
