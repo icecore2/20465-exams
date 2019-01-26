@@ -1,0 +1,11 @@
+*.o
+/.vscode
+/.idea
+/other
+/exams/cmake
+/exams/.idea/
+/exams/cmake*
+/.idea
+*.code-workspace
+*.cbp
+*.txt
